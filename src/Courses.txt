@@ -1,0 +1,5 @@
+1 java 0 4 javateacher 2
+2 math 1 2 mathteacher 2
+3 cpp 0 4 cppteacher 4
+4 python 1 3 pythonteacher 5
+5 linearAlgebra 0 4 mathteacher 3

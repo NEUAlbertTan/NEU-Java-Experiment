@@ -1,0 +1,4 @@
+stu1 stu1pass 20181111 1801 java cpp linearAlgebra python 
+stu2 stu2pass 20182222 1802 java cpp math linearAlgebra 
+stu3 stu3pass 20183333 1803 java cpp python math linearAlgebra 
+stu4 stu4pass 20184444 1804 java cpp linearAlgebra 

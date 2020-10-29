@@ -1,0 +1,4 @@
+javateacher jvavpassword 20181 Professor java 
+cppteacher cpppassword 20182 Professor cpp 
+mathteacher mathpassword 20183 Professor math linearAlgebra 
+pythonteacher pythonpassword 20184 Vice-Professor python 
